@@ -42,7 +42,7 @@ The topics include:
 ### Offensive Security
 
 - **Backtrack**
-  - [Hack your Friend using Backtrack](http://hackerspace.cs.rutgers.edu/library/bt5tutorials/HackYourFriend.pdf)
+ gdzdtxftd
 - **Kali Linux**
   - [Kali Linux Revealed Book](https://kali.training/)
   - [Windows Pentesting with Kali Linux v2](https://github.com/cyberh3x/books/blob/master/9781782168492-KALI_LINUX_2_WINDOWS_PENETRATION_TESTING.pdf)
